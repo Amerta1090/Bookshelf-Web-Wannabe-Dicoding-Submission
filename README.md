@@ -18,9 +18,6 @@ Bookshelf Web adalah sebuah proyek aplikasi web sederhana yang dibangun dengan m
 - **Local Storage**: Untuk menyimpan data buku pada peramban.
 - **Event Handling**: Untuk menangani interaksi pengguna seperti klik tombol dan pengisian formulir.
 
-## Screenshot
-[//]: # (Tambahkan screenshot aplikasi web ini jika ada)
-
 ## Cara Menjalankan
 1. Clone repositori ini ke dalam komputer lokal Anda.
 2. Buka file `index.html` menggunakan peramban web.
